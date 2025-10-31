@@ -146,16 +146,6 @@ const emonMahmud: Developer = {
 
 <!--START_SECTION:waka-->
 
-```text
-💻 Weekly Development Breakdown
-
-JavaScript   12 hrs 30 mins  ████████████░░░░░   65.2%
-TypeScript    3 hrs 45 mins  ████░░░░░░░░░░░░░   19.5%
-React         2 hrs 15 mins  ██░░░░░░░░░░░░░░░   11.7%
-CSS           0 hrs 42 mins  ░░░░░░░░░░░░░░░░░    3.6%
-
-🔥 Streak: 15 days  |  📅 Most Productive: Tuesday  |  ⏰ Daily Average: 4.2 hrs
-```
 
 <!--END_SECTION:waka-->
 
